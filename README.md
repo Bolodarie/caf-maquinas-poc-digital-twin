@@ -1,6 +1,6 @@
 # Sistema Preditivo de Reposicao de Pecas - CAF Maquinas
 
-Prova de Conceito (PoC) desenvolvida durante o Hackathon CAF. O projeto conquistou o 1º lugar ao propor a transicao de um modelo de pos-venda reativo para um modelo preditivo baseado em dados, com a meta de dobrar a receita de pecas e servicos.
+Prova de Conceito (PoC) desenvolvida durante o Hackathon CAF.
 
 ## O Projeto
 O sistema utiliza um "Gemeo Digital Comportamental" para simular o desgaste de pecas a partir de dados do ERP. Sem a necessidade de sensores IoT fisicos, o motor de regras cruza o Tempo de Uso, a Vida Util Padrao (MTBF) e um Fator de Severidade calibrado pelo porte da empresa cliente (CNAE).
